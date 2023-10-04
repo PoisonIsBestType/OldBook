@@ -58,7 +58,7 @@ _______
 Backgrounds 
 </b></summary>
 <img src="background/oldbook-ink.png">
-<img src="background/blacklotus-mint.png">
+<img src="background/oldbook-mint.png">
 <img src="background/oldbook-stripe.png">
 
 </details>
