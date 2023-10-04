@@ -15,7 +15,7 @@
   blue: #2a5173;
   magenta: #513e56;
   cyan: #0e616a;
-  white: #42474c;
+  white: #66615C;
   orange: #683504;
   pink: #5f2263;
   brown: #523622;   
@@ -26,7 +26,7 @@
   blue-brt: #366994;
   magenta-brt: #674f6e;
   cyan-brt: #158f9c;
-  white-brt: #413d37;
+  white-brt: #918A83;
   orange-brt: #984e06;
   pink-brt: #85308a;
   brown-brt: #784f31;
