@@ -43,7 +43,7 @@ colors:
     blue: '#2a5173'
     magenta: '#513e56'
     cyan: '#0e616a'
-    white: '#42474c'
+    white: '#66615C'
   bright:
     black: '#413d37'
     red: '#7a1405'
@@ -52,7 +52,7 @@ colors:
     blue: '#366994'
     magenta: '#674f6e'
     cyan: '#158f9c'
-    white: '#413d37'
+    white: '#918A83'
     
 # Gradient
   indexed_colors:
