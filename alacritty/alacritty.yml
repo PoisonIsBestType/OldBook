@@ -1,46 +1,4 @@
-# Configuration for Alacritty, the GPU enhanced terminal emulator.
-
-
-
-window:
-
-  padding:
-    x: 4
-    y: 4
-
-  opacity: 0.87
-
-  title: Alacritty
-
-  dynamic_title: true
-
-  class:
-    instance: Alacritty
-    general: Alacritty
-    
-  dimensions:
-    columns: 50
-    lines: 32
-  
-  position:
-    x: 445
-    y: 58
-
-scrolling:
-  history: 5000
-
-  multiplier: 5
-
-
-font:
-  
-  normal:
-    family: JetBrainsMono Nerd Font 
-    style: Regular
-  size: 5.2
-
-draw_bold_text_with_bright_colors: true
-
+# OldBook colorscheme
 
 colors:
   # Default colors
@@ -95,7 +53,8 @@ colors:
     magenta: '#674f6e'
     cyan: '#158f9c'
     white: '#413d37'
-
+    
+# Gradient
   indexed_colors:
     - { index: 21, color: '#7A1405' }
     - { index: 22, color: '#731D10' }
@@ -113,11 +72,3 @@ colors:
     - { index: 34, color: '#237D87' }
     - { index: 35, color: '#1C8691' }
     - { index: 36, color: '#158f9C' }
-
-
-cursor:
-  style:
-    blinking: Always
-  blink_interval: 500
-  blink_timeout: 0
-  unfocused_hollow: true
