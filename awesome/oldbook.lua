@@ -31,7 +31,7 @@
             blue = '#2A5173',
             magenta = '#513E56',
             cyan = '#0E616A',
-            white = '#42474C',
+            white = '#66615C',
             orange = '#683504',
             pink = '#5F2263',
             brown = '#523622'
@@ -46,7 +46,7 @@
             blue = '#366994',
             magenta = '#674f6E',
             cyan = '#158f9C',
-            white = '#413D37',
+            white = '#918A83',
             orange = '#984E06',
             pink = '#85308A',
             brown = '#784F31'
