@@ -1,9 +1,53 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+
+
+window:
+
+  padding:
+    x: 4
+    y: 4
+
+  opacity: 0.87
+
+  title: Alacritty
+
+  dynamic_title: true
+
+  class:
+    instance: Alacritty
+    general: Alacritty
+    
+  dimensions:
+    columns: 50
+    lines: 32
+  
+  position:
+    x: 445
+    y: 58
+
+scrolling:
+  history: 5000
+
+  multiplier: 5
+
+
+font:
+  
+  normal:
+    family: JetBrainsMono Nerd Font 
+    style: Regular
+  size: 5.2
+
+draw_bold_text_with_bright_colors: true
+
+
 colors:
   # Default colors
   primary:
-    background: '#121212'
-    foreground: '#c8c8c8'
-    bright_foreground: '#ffffff'
+    background: '#e9e2c9'
+    foreground: '#585148'
+    bright_foreground: '#583A24'
   cursor:
     text: CellBackground
     cursor: CellForeground
@@ -12,62 +56,68 @@ colors:
     cursor: CellForeground
   search:
     matches:
-      foreground: '#191919'
-      background: '#c8cc86'
+      foreground: '#583A24'
+      background: '#e9e2c9'
     focused_match:
-      foreground: '#191919'
-      background: '#d9c793'
+      foreground: '#583A24'
+      background: '#e9e2c9'
   footer_bar:
-    background: '#302e31'
-    foreground: '#dcefff'
+    background: '#585148'
+    foreground: '#e9e2c9'
   hints:
     start:
-      foreground: '#302e31'
-      background: '#d9c793'
+      foreground: '#585148'
+      background: '#e9e2c9'
     end:
-      foreground: '#d9c793'
-      background: '#302e31'
+      foreground: '#e9e2c9'
+      background: '#585148'
   line_indicator:
     foreground: None
     background: None
   selection:
     text: CellForeground
-    background: '#302e31'
+    background: '#585148'
   normal:
-    black: '#211f21'
-    red: '#7b3e59'
-    magenta: '#553976'
-    yellow: '#ae9f76'
-    blue: '#3f6cad'
-    green: '#798347'
-    cyan: '#416680'
-    white: '#adc4e3'
+    black: '#2e2928'
+    red: '#5e0f04'
+    green: '#333f0a'
+    yellow: '#957c16'
+    blue: '#2a5173'
+    magenta: '#513e56'
+    cyan: '#0e616a'
+    white: '#42474c'
   bright:
-    black: '#302e31'
-    red: '#a55377'
-    magenta: '#8853c7'
-    yellow: '#d9c793'
-    blue: '#2f88ff'
-    green: '#c8cc86'
-    cyan: '#6dabd6'
-    white: '#dcefff'
+    black: '#413d37'
+    red: '#7a1405'
+    green: '#50620f'
+    yellow: '#b4961a'
+    blue: '#366994'
+    magenta: '#674f6e'
+    cyan: '#158f9c'
+    white: '#413d37'
 
-# For gradient use
   indexed_colors:
-    - { index: 21, color: '#2f88ff' }
-    - { index: 22, color: '#3684FA' }
-    - { index: 23, color: '#3C81F7' }
-    - { index: 24, color: '#437EF3' }
-    - { index: 25, color: '#497AEF' }
-    - { index: 26, color: '#4F77EB' }
-    - { index: 27, color: '#5573E7' }
-    - { index: 28, color: '#5B70E4' }
-    - { index: 29, color: '#616CE0' }
-    - { index: 30, color: '#6768DC' }
-    - { index: 31, color: '#6D64D8' }
-    - { index: 32, color: '#7261D5' }
-    - { index: 33, color: '#775ED2' }
-    - { index: 34, color: '#7C5BCF' }
-    - { index: 35, color: '#8257CB' }
-    - { index: 36, color: '#8853c7' }
+    - { index: 21, color: '#7A1405' }
+    - { index: 22, color: '#731D10' }
+    - { index: 23, color: '#6C261B' }
+    - { index: 24, color: '#652E26' }
+    - { index: 25, color: '#5E3631' }
+    - { index: 26, color: '#56403D' }
+    - { index: 27, color: '#504746' }
+    - { index: 28, color: '#4A4E4F' }
+    - { index: 29, color: '#435658' }
+    - { index: 30, color: '#3E5C60' }
+    - { index: 31, color: '#386369' }
+    - { index: 32, color: '#316B73' }
+    - { index: 33, color: '#2A747D' }
+    - { index: 34, color: '#237D87' }
+    - { index: 35, color: '#1C8691' }
+    - { index: 36, color: '#158f9C' }
 
+
+cursor:
+  style:
+    blinking: Always
+  blink_interval: 500
+  blink_timeout: 0
+  unfocused_hollow: true
