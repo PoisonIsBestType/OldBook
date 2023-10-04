@@ -8,9 +8,9 @@ _______
 
 ### A light colorscheme for dark theme users!
 
-OldBook is a color theme inspired by the beautiful aesthetic of ancient caligraphy against aged tan paper.
-It's goal is to provide a light colorscheme option that feels cozy even to a dark theme user.
-Looking for a "paper-like" desktop experience? OldBook is the way!
+    OldBook is a color theme inspired by the beautiful aesthetic of ancient caligraphy against aged tan paper.
+    It's goal is to provide a light colorscheme option that feels cozy even to a dark theme user.
+    Looking for a "paper-like" desktop experience? OldBook is the way!
 
 ![](./palette.png)
 ![](./supplementary-palette.png)
