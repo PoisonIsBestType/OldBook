@@ -12,6 +12,10 @@ OldBook is a color theme inspired by the beautiful aesthetic of ancient caligrap
 
 Looking for a "paper-like" desktop experience? OldBook is the way!
 
+_______
+
+<h3 align="center">🎨 PALETTE 🎨</h3> 
+
 ![](./palette.png)
 ![](./supplementary-palette.png)
 
