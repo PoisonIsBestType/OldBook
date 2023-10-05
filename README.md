@@ -50,6 +50,7 @@ _______
 ## Screenshots
 
 - almeidaromim (as seen on [Reddit](https://www.reddit.com/r/unixporn/comments/16xincq/awesomewm_oldbook/))
+
 ![](./oldbook.png)
 
 _______
