@@ -23,7 +23,7 @@ _______
 
 _______
 
-<h2 align="center">📷 GALERY 📷</h2>
+<h3 align="center">📷 GALERY 📷</h3>
 
  <details>
 <summary><b>
@@ -62,7 +62,7 @@ _______
 
 _______
 
-<h2 align="center">🖼 SCREENSHOTS 🖼</h2>
+<h3 align="center">🖼 SCREENSHOTS 🖼</h3>
 
  <details>
 <summary><b>
