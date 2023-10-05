@@ -34,7 +34,6 @@ _______
 Click here 
 </b></summary>
   
-_______
   
 <p align="center">Desktop </p>
 
@@ -73,7 +72,6 @@ _______
 Click here 
 </b></summary>
   
-_______
   
 <p align="center">almeidaromim (as seen on <a href="https://www.reddit.com/r/unixporn/comments/16xincq/awesomewm_oldbook/">Redit</a>) </p>
 
