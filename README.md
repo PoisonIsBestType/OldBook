@@ -81,7 +81,7 @@ _______
 
 _______
 
-<<h3 align="center">📷 BACKGROUNDS 📷</h3>
+<h3 align="center">📷 BACKGROUNDS 📷</h3>
 
  <details>
 <summary><b>
