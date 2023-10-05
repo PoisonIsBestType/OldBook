@@ -100,5 +100,6 @@ Click here
 
 _______
 
-<p align="center">This is a noob's repository, don't expect much!</p>
+
+<p align="center">This repository contains a noob's side-side-project, don't expect much!</p>
 <p align="center">Have a good one!</p>
