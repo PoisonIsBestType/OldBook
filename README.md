@@ -97,13 +97,8 @@ Click here
 
 </details>
 
+
 _______
 
-
-
-
-
-
-
-This repository contains a noob's side-side-project, don't expect much.
-### Have a good one!
+<p align="center">This repository contains a noob's side-side-project, don't expect much.
+Have a good one!</p>
