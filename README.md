@@ -73,5 +73,5 @@ _______
 
 
 
-This repository contains a noob's side-project, don't expect much.
+This repository contains a noob's side-side-project, don't expect much.
 ### Have a good one!
