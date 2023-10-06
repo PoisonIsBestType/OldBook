@@ -91,6 +91,24 @@ Click here
 </b></summary>
 <img src="background/oldbook-ink.png">
 <img src="background/oldbook-mint.png">
+<img src="background/oldbook-tumbleweed.png">
+<img src="background/oldbook-arch.png">
+<img src="background/oldbook-artix.png">
+<img src="background/oldbook-debian.png">
+<img src="background/oldbooks-endeavour.png">
+<img src="background/oldbook-fedora.png">
+<img src="background/oldbook-freebsd.png">
+<img src="background/oldbook-garuda.png">
+<img src="background/oldbook-gentoo.png">
+<img src="background/oldbook-gnu.png">
+<img src="background/oldbook-haskell.png">
+<img src="background/oldbook-manjaro.png">
+<img src="background/oldbook-nix.png">
+<img src="background/oldbook-opensuse.png">
+<img src="background/oldbook-oroboros.png">
+<img src="background/oldbook-pop.png">
+<img src="background/oldbook-ubuntu.png">
+<img src="background/oldbook-void.png">
 <img src="background/oldbook-stripe.png">
 
 </details>
