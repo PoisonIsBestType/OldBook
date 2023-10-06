@@ -95,7 +95,7 @@ Click here
 <img src="background/oldbook-arch.png">
 <img src="background/oldbook-artix.png">
 <img src="background/oldbook-debian.png">
-<img src="background/oldbooks-endeavour.png">
+<img src="background/oldbook-endeavour.png">
 <img src="background/oldbook-fedora.png">
 <img src="background/oldbook-freebsd.png">
 <img src="background/oldbook-garuda.png">
