@@ -1,7 +1,3 @@
-<h1 align="center"> OldBook</h1>
-
-<p align="center"><i>A colorscheme.</i> </p>
-
 ![](./cover.png)
 
 _______
